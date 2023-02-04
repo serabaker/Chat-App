@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Baskervville&family=Marcellus&family=Paytone+One&family=Raleway:wght@200&family=Zen+Kurenaido&family=Zen+Maru+Gothic:wght@300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+button,
+input {
+  font-family: "Zen Kurenaido", sans-serif;
+}
+
+body {
+  max-width: 100vw;
+  max-height: 100vh;
+  overflow: hidden;
+}
+
+.Toastify__toast-theme--dark {
+  background-color: #00000076 !important;
+}
